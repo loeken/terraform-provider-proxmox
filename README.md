@@ -1,4 +1,4 @@
-[![Build Status](https://travis-ci.com/Telmate/terraform-provider-proxmox.svg?branch=master)](https://travis-ci.com/Telmate/terraform-provider-proxmox)
+[![Build Status](https://travis-ci.com/loeken/terraform-provider-proxmox.svg?branch=master)](https://travis-ci.com/loeken/terraform-provider-proxmox)
 
 # Terraform provider plugin for Proxmox
 
@@ -50,4 +50,4 @@ see: [Debugger-Based Debugging](https://www.terraform.io/docs/extend/debugging.h
 * [Proxmox documentation](https://pve.proxmox.com/pve-docs/)
 * [Terraform](https://www.terraform.io/)
 * [Terraform documentation](https://www.terraform.io/docs/index.html)
-* [Recommended ISO builder](https://github.com/Telmate/terraform-ubuntu-proxmox-iso)
+* [Recommended ISO builder](https://github.com/loeken/terraform-ubuntu-proxmox-iso)

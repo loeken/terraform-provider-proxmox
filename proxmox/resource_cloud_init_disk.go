@@ -8,7 +8,7 @@ import (
 	"io"
 	"strings"
 
-	"github.com/Telmate/proxmox-api-go/proxmox"
+	"github.com/loeken/proxmox-api-go/proxmox"
 	"github.com/kdomanski/iso9660"
 
 	"github.com/hashicorp/terraform-plugin-sdk/v2/diag"
