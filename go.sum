@@ -127,6 +127,8 @@ github.com/loeken/proxmox-api-go v0.0.0-20231118134711-7a4b1be1eadb h1:uN5z6rFNY
 github.com/loeken/proxmox-api-go v0.0.0-20231118134711-7a4b1be1eadb/go.mod h1:JNH6u/+U7YCtvXJOzpnUUsShkD3LGYffzaRd9DLr+is=
 github.com/loeken/proxmox-api-go v0.0.0-20231118145936-abdda8b935fb h1:UipRpl2BBvQWEE/0MLGt+NLll4Uz+Eljs4ICj5E3nwI=
 github.com/loeken/proxmox-api-go v0.0.0-20231118145936-abdda8b935fb/go.mod h1:JNH6u/+U7YCtvXJOzpnUUsShkD3LGYffzaRd9DLr+is=
+github.com/loeken/proxmox-api-go v0.0.0-20231118151206-20763aacfc3e h1:PECYUGWbqMUTf/RruzRB9qWhZb/qN95dJw95Ri/UK1g=
+github.com/loeken/proxmox-api-go v0.0.0-20231118151206-20763aacfc3e/go.mod h1:JNH6u/+U7YCtvXJOzpnUUsShkD3LGYffzaRd9DLr+is=
 github.com/matryer/is v1.2.0/go.mod h1:2fLPjFQM9rhQ15aVEtbuwhJinnOqrmgXPNdZsdwlWXA=
 github.com/mattn/go-colorable v0.0.9/go.mod h1:9vuHe8Xs5qXnSaW/c/ABM9alt+Vo+STaOChaDxuIBZU=
 github.com/mattn/go-colorable v0.1.9/go.mod h1:u6P/XSegPjTcexA+o6vUJrdnUu04hMope9wVRipJSqc=
