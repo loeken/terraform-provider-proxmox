@@ -6,9 +6,15 @@ require (
 	github.com/google/uuid v1.3.0
 	github.com/hashicorp/go-cty v1.4.1-0.20200414143053-d3edf31b6320
 	github.com/hashicorp/terraform-plugin-sdk/v2 v2.26.1
-	github.com/loeken/proxmox-api-go v0.0.0-20231118134711-7a4b1be1eadb
+	github.com/loeken/proxmox-api-go v0.0.0-20231118145936-abdda8b935fb
 	github.com/rs/zerolog v1.29.1
 
+)
+
+require (
+	github.com/inconshreveable/mousetrap v1.1.0 // indirect
+	github.com/spf13/cobra v1.7.0 // indirect
+	github.com/spf13/pflag v1.0.5 // indirect
 )
 
 require (
